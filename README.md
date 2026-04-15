@@ -1,5 +1,16 @@
 # 🚀 Real-Time AI Semantic Search Assistant
 
+## 🧠 What This Project Demonstrates
+
+This project simulates a production-style AI system:
+
+* Retrieval-based AI (RAG prototype)
+* Real-time streaming responses (SSE)
+* Session-based conversational memory
+* Async backend architecture
+
+Note: Uses a small curated dataset to demonstrate system design rather than scale.
+
 ## 💡 Overview
 
 This project is a real-time AI system that simulates a production-ready assistant using:
@@ -30,6 +41,7 @@ Frontend (JS)
 → Stream response back
 
 ---
+Designed with scalability in mind (can be extended with vector DBs like FAISS or Pinecone).
 
 ## 🧪 Tech Stack
 
