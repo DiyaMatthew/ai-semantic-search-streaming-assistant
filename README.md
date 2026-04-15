@@ -95,6 +95,12 @@ frontend/index.html
 * Multi-user scaling
 
 ---
+## 💡 Why This Project Stands Out
+
+* Built without relying on paid APIs (fully local AI pipeline)
+* Implements real-time streaming using Server-Sent Events (SSE)
+* Demonstrates core concepts of production AI systems (RAG, memory, async backend)
+* Designed to be easily extended with vector databases like FAISS or Pinecone
 
 ## 👨‍💻 Author
 
