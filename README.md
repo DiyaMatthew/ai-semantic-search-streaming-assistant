@@ -1,5 +1,15 @@
 # 🚀 Real-Time AI Semantic Search Assistant
 
+## ❗ Problem Statement
+
+Traditional chatbots struggle with real-time responses and contextual understanding when working with custom datasets.
+
+This project solves that by building a lightweight Retrieval-Augmented AI system that:
+
+* Retrieves relevant context using semantic search
+* Streams responses in real-time (like ChatGPT)
+* Maintains session-based conversational memory
+
 ## 🧠 What This Project Demonstrates
 
 This project simulates a production-style AI system:
